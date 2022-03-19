@@ -428,7 +428,8 @@ export const projects: IProjectData[] = [
     medias: [
       "https://raw.githubusercontent.com/MedAmineMhenni/MedAmineMhenni.github.io/master/src/assets/img/nightIn.png",
     ],
-    logo: "https://gitlab.com/mohamedamine.mhenni/pfe-esprit-digitu/-/raw/main/ScreenShots/Explore.png",
+    logo: "https://raw.githubusercontent.com/MedAmineMhenni/MedAmineMhenni.github.io/master/src/assets/img/nightIn.png",
+
     createdAt: new Date("2016-05-18T16:00:00Z"),
   },
 ];
