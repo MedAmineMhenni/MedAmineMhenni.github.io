@@ -32,7 +32,13 @@ const Footer: FC = () => {
         columnSpacing={{ xs: 1, sm: 2, md: 3 }}
       >
         <Grid item>
-          <Link to="https://www.facebook.com/profile.php?id=100004277226992">
+          <Link
+            to={{
+              pathname:
+                "https://www.facebook.com/profile.php?id=100004277226992",
+            }}
+            target="_blank"
+          >
             <FaFacebookSquare size={30} />
           </Link>
         </Grid>
@@ -47,7 +53,13 @@ const Footer: FC = () => {
           </Link>
         </Grid>
         <Grid item>
-          <Link to="https://www.linkedin.com/in/mohamedamine-m-henni-b84924196/">
+          <Link
+            to={{
+              pathname:
+                "https://www.linkedin.com/in/mohamedamine-m-henni-b84924196/",
+            }}
+            target="_blank"
+          >
             <FaLinkedin size={30} />
           </Link>
         </Grid>
