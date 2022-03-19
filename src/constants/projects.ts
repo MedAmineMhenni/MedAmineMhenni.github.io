@@ -45,10 +45,6 @@ export const projects: IProjectData[] = [
         en: "Manage state sharing with redux.",
       },
       {
-        fr: "Redirection vers les écrans en fonction des notifications",
-        en: "Redirection to screens based on notifications",
-      },
-      {
         fr: "Intégrer l’authentification par Facebook SDK",
         en: "Integrate authentication by Facebook SDK",
       },
@@ -56,6 +52,9 @@ export const projects: IProjectData[] = [
         fr: "Intégrer l’authentification par Apple SDK",
         en: "Integrate authentication by Apple SDK",
       },
+    ],
+    medias: [
+      "https://github.com/MedAmineMhenni/MedAmineMhenni.github.io/blob/master/joliesse.png",
     ],
     technologies: [
       "React Native",
