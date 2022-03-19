@@ -1,0 +1,14 @@
+{
+  "en": {
+    "translation": {
+      "home": "Home",
+      "works": "Works",
+      "cv_download": "Download CV",
+      "recents": "Recents",
+      "view_all": "View All",
+      "Featured_works": "Featured works",
+      "tasks": " Tasks list",
+      "technologies": "Technologies/Tools"
+    }
+  }
+}
