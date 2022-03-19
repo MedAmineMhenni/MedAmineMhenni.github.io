@@ -53,9 +53,7 @@ export const projects: IProjectData[] = [
         en: "Integrate authentication by Apple SDK",
       },
     ],
-    medias: [
-      "https://github.com/MedAmineMhenni/MedAmineMhenni.github.io/blob/master/joliesse.png",
-    ],
+    medias: [],
     technologies: [
       "React Native",
       "React",
